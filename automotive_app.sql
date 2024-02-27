@@ -1,0 +1,1 @@
+SELECT * FROM automotive_app.sold_vehicles;
